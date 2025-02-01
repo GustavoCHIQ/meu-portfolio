@@ -5,9 +5,21 @@ export default function Projects() {
   const projects = [
     {
       id: 1,
-      title: 'API de Orçamentos',
+      title: 'API para Gerenciar Orçamentos',
       tech: 'Typescript, Postgres, JWT, Prisma, Fastify, Zod',
       githubUrl: 'https://github.com/GustavoCHIQ/backend-sistema-orcamento', // Link do GitHub
+    },
+    {
+      id: 2,
+      title: 'RextonOS - App de Orçamentos',
+      tech: 'React Native, Expo, Javascript',
+      githubUrl: 'https://github.com/GustavoCHIQ/rexton-os'
+    },
+    {
+      id: 3,
+      title: 'Em Breve',
+      tech: 'Em Breve',
+      githubUrl: '#'
     },
   ];
 
