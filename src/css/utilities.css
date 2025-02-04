@@ -147,7 +147,7 @@ h2::selection {
 }
 
 .card:nth-child(3) {
-  background: url(../../public/assets/project/aguarde.png) center center/cover;
+  background: url(../../public/assets/project/project-three.png) center center/cover;
 }
 
 /* Media Queries */

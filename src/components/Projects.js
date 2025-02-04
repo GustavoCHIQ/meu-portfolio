@@ -17,9 +17,9 @@ export default function Projects() {
     },
     {
       id: 3,
-      title: 'Em Breve',
-      tech: 'Em Breve',
-      githubUrl: '#'
+      title: 'Todo List',
+      tech: 'NextJS, Javascript, TailwindCSS, React',
+      githubUrl: 'https://github.com/GustavoCHIQ/todo-list'
     },
   ];
 
@@ -47,7 +47,7 @@ export default function Projects() {
           </div>
         ))}
       </article>
-      <Link href="" className="btn btn-secondary" target="_blank">
+      <Link href="https://github.com/GustavoCHIQ" className="btn btn-secondary" target="_blank">
         Ver mais <FaArrowRight />
       </Link>
     </section>
